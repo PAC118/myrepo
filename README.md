@@ -1,3 +1,3 @@
 # myrepo
 Push/Pull RStudio.
-This is a line from RStudio. I really like cats and lasanga. Did my SSH key work? Blah blah blah.
+This is a line from RStudio. I really like cats and lasanga. Line added from Github.
